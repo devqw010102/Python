@@ -1,0 +1,19 @@
+# 1. 파이썬 캐시 파일 
+__pycache__/
+*.py[cod]
+
+# 2. 데이터 파일
+
+data/
+*.csv
+*.xlsx
+
+# 3. 주피터 노트북 임시 파일
+.ipynb_checkpoints/
+
+# 4. 그래프 결과물 
+*.png
+
+# 5. 가상환경 폴더
+venv/
+.venv/
