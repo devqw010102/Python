@@ -88,8 +88,10 @@ Visual Studio Code, pycharm : pandas 내장되어 있지 않음(pip 명령어로
 **Pandas로 DataFrame 이용하기**
 
 1. 어떤 형태의 파일인지 확인
-   > * `Json` 파일 : `Dictionary`, `List` <br>
-   > * `CSV` 파일 : `DataFrame`
+    > 1. `Json` 파일 : `Dictionary`, `List` <br>
+   >   * `DataFrame()` -> dataframe
+   > 2. `CSV` 파일
+   >   * `read_csv()` -> dataframe
 
 2. 데이터 수집(`.json` or `.csv`)
     > * 공공데이터포털(json, csv) <br>
