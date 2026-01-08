@@ -5,7 +5,6 @@
 ## 리턴타입 메소드명() { }
 # python
 # def 함수명() :
-import dictionary.dictionary
 
 
 ### 함수 선언 이후 호출 가능 ###
